@@ -56,3 +56,4 @@
   ```
 >Note: If you have set up your deployment user before use that you can use that user and password, otherwise you can use publish profile.
 10. Browse to the site `https://<sitename>.azurewebsites.net/` to see all operations for this application.
+"# posgresql" 
